@@ -5,7 +5,7 @@ IN ALCOHOL USE DISORDER BUT NOT SMOKING (PDF)](./Thill et al FENS landscape_fina
 
 presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 
-<img src="Thill et al FENS landscape_final.png" width="800">
+<img src="Thill et al FENS landscape.png" width="800">
 
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
