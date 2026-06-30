@@ -10,7 +10,7 @@ presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
-## 🗐References
+## 📙References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
 2. Chen, H., et al. (2021). Susceptibility to interference between Pavlovian and instrumental control is associated with early hazardous alcohol use. *Addiction Biology*, 26 (4), Article e12983. **https://doi.org/10.1111/adb.12983**
 3. Chen, H. et al. (2023). Susceptibility to interference between Pavlovian and instrumental control predisposes risky alcohol use developmental trajectory from ages 18 to 24. *Addiction Biology*, 28(2), Article e13263. **https://doi.org/10.1111/adb.13263**
