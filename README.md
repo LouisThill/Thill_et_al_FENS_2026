@@ -1,12 +1,14 @@
-# 📄Poster: Thill et al. (2026) at Fens Forum 2026 
+# 📄Poster: Thill et al. (2026) at [Fens Forum 2026](https://fensforum.org/) (Barcelona 🐱) 
 
-Here you can find materials related to [my poster (PDF)](./Thill_et_al_2026_DGBP_version20260416.pdf) presented at the [FENS Forum 2026]([https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/](https://fensforum.org/)) in Barcelona 🐱. 
+📄 Poster PS02-07PM-216:  [ENHANCED INTERFERENCE BETWEEN PAVLOVIAN AND INSTRUMENTAL CONTROL
+IN ALCOHOL USE DISORDER BUT NOT SMOKING (PDF)](./Thill et al FENS landscape_final.pdf)
+
+presented by: [Louis Thill](https://github.com/louisthill/louisthill)
+
+<img src="Thill et al FENS landscape_final.png" width="800">
+
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
-
-Feel free to reach out in case you have any questions or comments:
-
-[My profile & Contact Info](https://github.com/louisthill/louisthill)
 
 ## 🗐References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
