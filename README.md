@@ -1,6 +1,6 @@
 # 📄Poster: Thill et al. (2026) at [Fens Forum 2026](https://fensforum.org/) (Barcelona 🐱) 
 
-📄 Poster PS02-07PM-216:  [ENHANCED INTERFERENCE BETWEEN PAVLOVIAN AND INSTRUMENTAL CONTROL IN ALCOHOL USE DISORDER BUT NOT SMOKING (PDF)](Thill et al FENS landscape_final.pdf)
+📄 Poster PS02-07PM-216:  [ENHANCED INTERFERENCE BETWEEN PAVLOVIAN AND INSTRUMENTAL CONTROL IN ALCOHOL USE DISORDER BUT NOT SMOKING (PDF)](./Thill%20et%20al%20FENS%20landscape_final.pdf)
 
 presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 
